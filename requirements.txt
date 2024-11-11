@@ -1,0 +1,12 @@
+torch
+torchvision
+tensorboard
+scipy
+numpy
+matplotlib
+opencv_python
+tqdm
+Pillow==9.5.0
+h5py
+flask
+oss2
